@@ -1,6 +1,7 @@
 # CubeLogic: A Mathematical Approach to the Rubik's Cube
 
-![Rubik's Cube Math](https://media.tenor.com/kNG5K3Ech14AAAAC/rubiks-cube.gif)
+![Rubik's Cube Math](![image](https://github.com/user-attachments/assets/1bddb9ed-1265-4706-bf7d-bf788047fb03)
+)
 
 > A project exploring the Rubik's Cube using concepts from **Group Theory**, **Permutations**, and **Algebra**.
 
