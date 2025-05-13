@@ -1,6 +1,6 @@
 # CubeLogic: A Mathematical Approach to the Rubik's Cube
 
-![Rubik's Cube GIF](https://media.giphy.com/media/3o7TKF8V5bRpB2VnLW/giphy.gif)
+![Rubik's Cube Math](https://media.tenor.com/kNG5K3Ech14AAAAC/rubiks-cube.gif)
 
 > A project exploring the Rubik's Cube using concepts from **Group Theory**, **Permutations**, and **Algebra**.
 
@@ -36,11 +36,10 @@ This project is a deep dive into the mathematical structure behind the Rubik's C
 
 ## Preview
 
-![Preview](https://media.giphy.com/media/l0MYEQEzwMWFCg8rm/giphy.gif)
+![Preview](https://media.tenor.com/I4I6NGLuG1oAAAAC/math-rubiks-cube.gif)
 
 ## License
 
 This project is for educational purposes. Feel free to share or modify with credits.
 
 ---
-
